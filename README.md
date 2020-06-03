@@ -100,6 +100,10 @@ You can fetch MASM 5.1A from
 * Mount the image using the command `sudo mount MASM51A-UPDATE.img /mnt`
 * Copy the files from `/mnt` to your development directory
 
+## Source code visualization
+
+The source code in Assembly is made of over 34K LOC, spread in 35 files, totalling over 3.6K Assembly inter-connected routines. Some visualization of these routines were made using the [Roassal3](https://github.com/ObjectProfile/Roassal3) visualization engine, and results may be seen [here](https://github.com/bergel/GWBasicVisualization).
+
 ## License
 
 All files within this repo are released under the [MIT (OSI) License]( https://en.wikipedia.org/wiki/MIT_License) as per the [LICENSE file](https://github.com/Microsoft/GW-BASIC/blob/master/LICENSE) stored in the root of this repo.
